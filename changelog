@@ -1,0 +1,6 @@
+jedix2-0.9 (1) UNRELEASED; urgency=low
+
+  * Initial release based on (very heavily) modified TurnKey Core.
+
+ -- Jeremy Davis <jeremy@turnkeylinux.org> Fri, 19 Feb 2016 20:50:16 +1100
+
